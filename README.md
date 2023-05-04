@@ -1,5 +1,5 @@
 # Movie Recommendation System with Boltzmann Machines
-Welcome to our Movie Recommendation System! This project leverages the power of Boltzmann Machines to provide personalized movie recommendations based on users' preferences and viewing history.
+Welcome to my Movie Recommendation System! This project leverages the power of Boltzmann Machines to provide personalized movie recommendations based on users' preferences and viewing history.
 
 ## Table of Contents
 [Introduction](#introduction) <br>
